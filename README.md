@@ -13,7 +13,7 @@
 <div class="member-card">
  <h2>Newとは？</h2>
   <p>Discordで活動している界隈のことです！</br>
-  交流をメインとした界隈です！</br>
+  交流をメインとした同盟です！</br>
   参加については下記を参照。</p>
 </div>
 
@@ -38,6 +38,20 @@
   <a href="https://discord.gg/X2GmAwBmsC">Discordで参加！</a>ここまで読んでくれてありがとう！</br>
   <B>一緒にサーバーを盛り上げよう！</B></p>
 </div>
+
+<div class="member-card">
+ <h2>その他いろいろ</h2>
+  <h3>サイト</h3>
+   Discordサーバー参加は<a href="https://discord.gg/W8MMU2MX5Y">こちらから</a></br>
+   <p>公式X(作成予定)</br>
+   <a href="https://discord.gg/9UeqxWNSuy">そよ風カンパニーに参加</a></br>
+   <a href="https://soyosoft-dev.github.io/hub">そよ風カンパニーウェブサイト</a></br>
+   <a href="https://soyosoft-dev.github.io/team">そよ風カンパニーメンバー</a></br>
+   <a href="https://Rousoku740.github.io/Profile">創設者のプロフィール</a></p>
+  <h3></h3>
+   <p></p>
+</div>
+
 
 </body>
 </html>
